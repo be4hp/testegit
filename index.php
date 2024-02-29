@@ -1,10 +1,10 @@
 <?php
- function calcDobro(){
+ function calcDobro($num){
     $dobro = $num * 2;
     return $dobro;
  }
-    function calcTriplo(){
-        $triplo = $num *3;
+    function calcTriplo($num1){
+        $triplo = $num1 * 3;
         return $triplo;
     }
 
