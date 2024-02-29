@@ -1,5 +1,5 @@
 <?php
- function calcDobro($num){
+ function calcDobro($num1){
     $dobro = $num * 2;
     return $dobro;
  }
